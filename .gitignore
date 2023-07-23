@@ -13,3 +13,8 @@ creategif/brainbox.egg-info/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*.ipynb
+
+# Build files
+setup.cfg
+pyproject.toml
